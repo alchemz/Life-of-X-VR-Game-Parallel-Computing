@@ -3,6 +3,7 @@ This is a vr game to let the user to experience a life or a insect/microorganism
 
 ## Steps
 ### 1. Life of a corn
+make the corn growth process be animated.
 
 
 ## Reference:
